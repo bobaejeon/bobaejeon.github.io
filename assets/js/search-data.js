@@ -28,16 +28,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_long/";
+            },},{id: "news-our-paper-got-accepted-to-eurographics-2025-short-papers-champagne",
+          title: 'Our paper got accepted to Eurographics 2025 Short Papers. :champagne:',
+          description: "",
+          section: "News",},{id: "news-i-successfully-graduated-my-master-s-sparkles",
+          title: 'I successfully graduated my master’s’! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-presenting-our-paper-today-in-eurographics-2025-smile",
+          title: 'I’ll be presenting our paper today in Eurographics 2025. :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
