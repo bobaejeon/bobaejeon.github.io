@@ -194,6 +194,11 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
 #  - _pages/projects.md
 #  - _pages/repositories.md
 #  - _pages/books.md
