@@ -12,28 +12,28 @@
       "name": "Concordia University, Montreal, QC, Canada",
       "position": "Graduate Research Assistant",
       "startDate": "2022-09-06",
-      "endDate": "2025-05-01"
+      "endDate": "2025-05-01",
       "highlights": ["Developed a visual dubbing pipeline to sync mouth expressions with a translated script","Designed a modular framework incorporating 3D face reconstruction, StyleGAN-based autoencoder, and super-resolution","Integrated state-of-the-art techniques for natural and high-quality results with minimal data (< 10s)","Focused on industry-level applications, particularly TV ads, ensuring seamless viewing experience"]
     },
     {
       "name": "Concordia University, Montreal, QC, Canada",
       "position": "Teaching Assistant",
       "startDate": "2023-01-06",
-      "endDate": "2024-12-01"
+      "endDate": "2024-12-01",
       "highlights": ["Tutor, Lab Demonstrator & Marker for Program and Problem Solving – Taught data structures and problem-solving in Java, emphasizing memory and time efficiency through interactive sessions and hands-on labs. Also assessed student work and provided feedback","Lab Demonstrator for Object-Oriented Programming – Guided students through practical coding exercises using Java","Marker for Probability and Statistics and Mathematics for Computer Science – Evaluated assignments and provided feedback"]
     },
     {
       "name": "AudioZ, Montreal, QC, Canada",
       "position": "Computer Graphics Researcher",
       "startDate": "2022-09-06",
-      "endDate": "2024-05-01"
+      "endDate": "2024-05-01",
       "highlights": ["Deployed the visual dubbing pipeline on AWS SageMaker through Dockerization, enabling direct use by the company","ridged research and production, tailoring the system to meet client needs","Demonstrated strong software engineering skills, ensuring ease of use"]
     },
     {
       "name": "Gugak Broadcasting Foundation, Seoul, South Korea",
       "position": "Intern in Data Processing",
       "startDate": "2021-08-01",
-      "endDate": "2021-12-01"
+      "endDate": "2021-12-01",
       "highlights": ["Assisted in implementing an open data API","Edited and processed sound effect data to be distributed into an API"]
     },
   ],
@@ -48,7 +48,7 @@
   "education": [
     {
       "institution": "Concordia University, Montreal, QC, Canada",
-      "location": "Montreal, QC, Canada"
+      "location": "Montreal, QC, Canada",
       "area": "Computer Science",
       "studyType": "Master's",
       "startDate": "2022-09-06",
@@ -57,7 +57,7 @@
     },
     {
       "institution": "Soongsil University, Seoul, South Korea",
-      "location": "Seoul, South Korea"
+      "location": "Seoul, South Korea",
       "area": "Computer Science, Economics",
       "studyType": "Bachelor's",
       "startDate": "2017-03-02",
