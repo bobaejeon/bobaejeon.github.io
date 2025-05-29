@@ -37,14 +37,6 @@
       "highlights": ["Assisted in implementing an open data API","Edited and processed sound effect data to be distributed into an API"]
     }
     ],
-  "volunteer": [
-    {
-      "organization": "Computer Animation and Virtual Worlds",
-      "position": "Reviewer",
-      "startDate": "2024-08-01",
-      "summary": "Peer-reviewed a journal article"
-    }
-  ],
   "education": [
     {
       "institution": "Concordia University, Montreal, QC, Canada",
@@ -64,6 +56,14 @@
       "endDate": "2021-08-01"
     }
   ],
+  "publications": [
+    {
+      "name": "Personalized Visual Dubbing through Virtual Dubber and Full Head Reenactment",
+      "publisher": "Eurographics",
+      "releaseDate": "2025-05-13",
+      "url": "https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e"
+    }
+  ],
   "awards": [
     {
       "title": "Top prize",
@@ -81,14 +81,6 @@
       "title": "Concordia Split Merit Scholarship",
       "date": "2022-09-06",
       "awarder": "Concordia University, Montreal, QC, Canada"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Personalized Visual Dubbing through Virtual Dubber and Full Head Reenactment",
-      "publisher": "Eurographics",
-      "releaseDate": "2025-05-13",
-      "url": "https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e"
     }
   ],
   "skills": [
@@ -138,6 +130,14 @@
       "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Computer Animation and Virtual Worlds",
+      "position": "Reviewer",
+      "startDate": "2024-08-01",
+      "summary": "Peer-reviewed a journal article"
     }
   ],
   "projects": [
