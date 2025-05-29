@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Graphics Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_bobae.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Montreal, QC, Canada</p>
