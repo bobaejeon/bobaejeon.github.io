@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Bobae Jeon# the website title (if blank, full name will be used instead)
+title: Bobae Jeon # the website title (if blank, full name will be used instead)
 first_name: Bobae
 middle_name:
 last_name: Jeon
@@ -16,7 +16,7 @@ footer_text: >
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: computer-vision, computer-graphics, generative-ai # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👩🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: light-bulb.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://bobaejeon.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
@@ -45,10 +45,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
