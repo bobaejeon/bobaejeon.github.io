@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: No shooting is always miss :dart:
+subtitle: "No shooting is always miss :dart:"
 
 profile:
   align: right
