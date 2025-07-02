@@ -49,26 +49,21 @@ ninja.data = [{
           description: "High-fidelity visual dubbing pipeline under few-shot constraints.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-ai-trainer",
           title: 'AI Trainer',
           description: "A pose analysis system to track joint angles for exercise correction.",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-street-tree-volunteer-helper-mobile-app",
+          title: 'Street Tree Volunteer Helper Mobile App',
+          description: "An Android mobile app for volunteers to report and care for street trees in Seoul (Top Prize – Open Data Application Competition 2021)",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-learning-assistant-android-app",
+          title: 'Learning Assistant Android App',
+          description: "An Android app to deliver structured learning roadmaps using public education data APIs (Finalist – Open Data Application Competition 2022)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
