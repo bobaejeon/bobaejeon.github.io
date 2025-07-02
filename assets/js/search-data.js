@@ -32,14 +32,14 @@ ninja.data = [{
           title: 'Our paper got accepted to Eurographics 2025 Short Papers. :champagne:',
           description: "",
           section: "News",},{id: "news-i-successfully-graduated-my-master-s-sparkles",
-          title: 'I successfully graduated my master’s’! :sparkles:',
+          title: 'I successfully graduated my master’s! :sparkles:',
           description: "",
           section: "News",},{id: "news-i-ll-be-presenting-our-paper-today-in-eurographics-2025-smile",
           title: 'I’ll be presenting our paper today in Eurographics 2025. :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-visual-dubbing-pipeline-video-amp-face-synthesis",
+          title: 'Visual Dubbing Pipeline (Video &amp;amp; Face Synthesis)',
+          description: "High-fidelity visual dubbing pipeline under few-shot constraints.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -47,9 +47,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ai-trainer",
+          title: 'AI Trainer',
+          description: "A pose analysis system to track joint angles for exercise correction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
