@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully graduated my master's'! :sparkles:
+I successfully graduated my master's! :sparkles:

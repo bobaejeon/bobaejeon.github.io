@@ -25,9 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm **Bobae**, an *aspiring computer graphics researcher* with a strong foundation in **computer vision** and **generative AI**. My academic focus has been on image and video synthesis, with a particular interest in face reenactment. I’ve explored and benchmarked generative models such as **GANs**, **diffusion models**, and **VAEs** to better understand their strengths and trade-offs.
+I'm **Bobae**, an *aspiring computer vision engineer* with a strong foundation in **computer graphics** and **generative AI**. My academic focus has been on image and video synthesis, with a particular interest in face reenactment. I’ve explored and benchmarked generative models such as **GANs**, **diffusion models**, and **autoencoder variations** to better understand their strengths and trade-offs.
 
 I recently completed my master's at Concordia University, where I had the opportunity to work with *Professors Sudhir Mudur and Tiberiu Popa* in the **3D Graphics Lab**. There, I contributed to the development of a **visual dubbing pipeline**, centered around a StyleGAN-inspired autoencoder and state-of-the-art facial synthesis techniques.
+
+Before transitioning into research, I was an **Android developer**, which gave me hands-on experience with real-world software engineering that helped me writing clean, maintainable code and building robust applications. That background continues to shape how I approach experiments and system design today.
 
 I'm especially drawn to the intersection of **computer graphics**, **vision**, and **generative AI**, from 3D reconstruction to realistic video synthesis. I’m always excited to collaborate on thoughtful and creative research.
 
