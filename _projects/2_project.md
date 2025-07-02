@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: AI Trainer
+description: A pose analysis system to track joint angles for exercise correction.
+img: assets/img/aitrainer.jpg
+redirect: https://github.com/bobaejeon/AITrainer
 importance: 2
-category: work
-giscus_comments: true
+category: Computer Vision
 ---
 
 Every project has a beautiful feature showcase page.
