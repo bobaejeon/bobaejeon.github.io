@@ -25,7 +25,7 @@ A novel visual dubbing pipeline that balances lip-sync accuracy and realistic fa
     </div>
 </div>
 <div class="caption">
-    Sample results, more to be found [here](https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e)!
+    Sample results, more to be found <a href="https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e">here</a>!
 </div>
 
 **Overview**
