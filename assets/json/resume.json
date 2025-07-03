@@ -5,7 +5,7 @@
     "email": "bbj5608@gmail.com",
     "phone": "+1 (438) 934-1274",
     "url": "https://bobaejeon.github.io",
-    "summary": "Computer graphics researcher with a strong background in computer vision and generative AI, specializing in video and image synthesis."
+    "summary": "Computer vision research engineer with a strong background in computer graphics and generative AI, specialized in video and image synthesis."
   },
   "work": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "AudioZ, Montreal, QC, Canada",
-      "position": "Computer Graphics Researcher",
+      "position": "Computer Vision Research Intern",
       "startDate": "2022-09-06",
       "endDate": "2024-05-01",
       "highlights": ["Deployed the visual dubbing pipeline on AWS SageMaker through Dockerization, enabling direct use by the company","ridged research and production, tailoring the system to meet client needs","Demonstrated strong software engineering skills, ensuring ease of use"]
@@ -141,40 +141,40 @@
       "summary": "Peer-reviewed a journal article"
     }
   ],
-  "projects": [
-    {
-      "name": "Visual Dubbing Research",
-      "summary": "Computer vision & graphics research",
-      "highlights": ["Developed high-fidelity face synthesis pipeline under few-shot constraints", "Researched person-specific visual dubbing using a modular pipeline","Benchmarked SOTA generative models (GANs, Diffusion, VAEs)","Evaluated trade-offs between model fidelity, generalization, and data efficiency for real-world applications in visual dubbing", "Skills used: PyTorch, AWS, generative models"],
-      "startDate": "2022-09-06",
-      "endDate": "2025-05-01",
-      "url": "https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e"
-    },
-    {
-      "name": "Learning Assistant App",
-      "summary": "Android development",
-      "highlights": ["Participated in Open Data Application Competition 2022",
-          "Built an Android mobile app for learning assistant, providing open data roadmaps for users to follow", "Services provided: providing roadmaps, diary features","Responsible for data preprocessing and Android development","Skills used: Android Studio, Java, Firebase"],
-      "startDate": "2022-05-01",
-      "endDate": "2022-08-01",
-      "url": "https://github.com/team-garosero/HobbyRoadmap"
-    },
-    {
-      "name": "Volunteer Program Helper App",
-      "summary": "Android development",
-      "highlights": ["Participated in Open Data Application Competition 2021","Built an Android mobile app for a volunteer program, taking care of street trees in Seoul, South Korea","Services provided: signing up for the program, changing tree images by submitting volunteer work reports, showing information about street trees","Responsible for database design and Android development","Skills used: Android Studio, Java, Firebase"],
-      "startDate": "2021-11-01",
-      "endDate": "2022-06-01",
-      "url": "https://github.com/bobaejeon/garosero"
-    },
-    {
-      "name": "AI Trainer Program",
-      "summary": "Computer vision application development",
-      "highlights": ["Using MediaPipe, estimate human pose and analyze the forms while doing exercises","Fields related: Human pose estimation, angle-calculation between joints",
-          "Skills used: Python, OpenCV, MediaPipe"],
-      "startDate": "2021-07-01",
-      "endDate": "2021-10-01",
-      "url": "https://github.com/bobaejeon/AITrainer"
-    }
-  ]
+//  "projects": [
+//    {
+//      "name": "Visual Dubbing Research",
+//      "summary": "Computer vision & graphics research",
+//      "highlights": ["Developed high-fidelity face synthesis pipeline under few-shot constraints", "Researched person-specific visual dubbing using a modular pipeline","Benchmarked SOTA generative models (GANs, Diffusion, VAEs)","Evaluated trade-offs between model fidelity, generalization, and data efficiency for real-world applications in visual dubbing", "Skills used: PyTorch, AWS, generative models"],
+//      "startDate": "2022-09-06",
+//      "endDate": "2025-05-01",
+//      "url": "https://diglib.eg.org/items/5653eca5-8a42-4410-b3a5-0f5cbf21ff5e"
+//    },
+//    {
+//      "name": "Learning Assistant App",
+//      "summary": "Android development",
+//      "highlights": ["Participated in Open Data Application Competition 2022",
+//          "Built an Android mobile app for learning assistant, providing open data roadmaps for users to follow", "Services provided: providing roadmaps, diary features","Responsible for data preprocessing and Android development","Skills used: Android Studio, Java, Firebase"],
+//      "startDate": "2022-05-01",
+//      "endDate": "2022-08-01",
+//      "url": "https://github.com/team-garosero/HobbyRoadmap"
+//    },
+//    {
+//      "name": "Volunteer Program Helper App",
+//      "summary": "Android development",
+//      "highlights": ["Participated in Open Data Application Competition 2021","Built an Android mobile app for a volunteer program, taking care of street trees in Seoul, South Korea","Services provided: signing up for the program, changing tree images by submitting volunteer work reports, showing information about street trees","Responsible for database design and Android development","Skills used: Android Studio, Java, Firebase"],
+//      "startDate": "2021-11-01",
+//      "endDate": "2022-06-01",
+//      "url": "https://github.com/bobaejeon/garosero"
+//    },
+//    {
+//      "name": "AI Trainer Program",
+//      "summary": "Computer vision application development",
+//      "highlights": ["Using MediaPipe, estimate human pose and analyze the forms while doing exercises","Fields related: Human pose estimation, angle-calculation between joints",
+//          "Skills used: Python, OpenCV, MediaPipe"],
+//      "startDate": "2021-07-01",
+//      "endDate": "2021-10-01",
+//      "url": "https://github.com/bobaejeon/AITrainer"
+//    }
+//  ]
 }
